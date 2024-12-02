@@ -1,5 +1,5 @@
 # Projecto-blog-1
-Este es un proyecto de blog funcional desarrollado en Django. Permite listar publicaciones, ver los detalles de cada una y agregar nuevas publicaciones desde la web.
+Este es un proyecto de blog funcional desarrollado en Django. Permite listar publicaciones, ver los detalles de cada una de las publicaciones desde la web.
 - Página de inicio: Lista todas las publicaciones con título, extracto del contenido y fecha.
 - Vista detallada: Muestra el contenido completo de cada publicación al hacer clic en su título.
 -Panel de administración: Permite agregar y administrar posts desde el panel de administración de Django.
